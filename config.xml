@@ -12,7 +12,7 @@
     <userRemoteConfigs>
       <hudson.plugins.git.UserRemoteConfig>
         <url>https://github.com/SoftwareStudio-Spring2017/githubapi-issues-mounishkokkula.git</url>
-        <credentialsId>17c64420-23f0-4664-8581-7868acd94470</credentialsId>
+        <credentialsId>0f8bd711-7703-4d4c-8715-d77eaf327d2d</credentialsId>
       </hudson.plugins.git.UserRemoteConfig>
     </userRemoteConfigs>
     <branches>
